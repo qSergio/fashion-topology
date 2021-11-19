@@ -7,8 +7,13 @@ __pycache__/
 .ipynb_checkpoints/*
 .ipynb_checkpoints/
 .DS_Store
-
-
+.aux
+.fls
+.log
+.out
+.fdb_latexmk
+*.gz
+.bib
 
 # C extensions
 *.so
